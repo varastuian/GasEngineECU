@@ -1,0 +1,4 @@
+module SrcVahid.Controls
+LabelVahid              1.0 LabelVahid.qml
+TelemetryValueBarVahid  1.0 TelemetryValueBarVahid.qml
+GimbalVahid		1.0 GimbalVahid.qml

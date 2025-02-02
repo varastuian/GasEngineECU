@@ -1,0 +1,12 @@
+ 
+# Qt build files
+build/
+CMakeCache.txt
+CMakeFiles/
+*.user
+*.pro.user
+*.pro.user.*
+*.pro.sublime-workspace
+*.qmake.stash
+*.qtc_clangd
+*.creator*

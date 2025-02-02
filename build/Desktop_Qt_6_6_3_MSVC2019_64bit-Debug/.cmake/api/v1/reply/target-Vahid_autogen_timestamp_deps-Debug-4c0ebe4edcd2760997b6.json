@@ -1,0 +1,31 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"src/Vahid/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "Vahid_autogen_timestamp_deps::@c435647b630cea22cbd7",
+	"isGeneratorProvided" : true,
+	"name" : "Vahid_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "src/Vahid",
+		"source" : "src/Vahid"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
