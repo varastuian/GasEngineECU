@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  
 # Qt build files
 build/
@@ -10,3 +11,37 @@ CMakeFiles/
 *.qmake.stash
 *.qtc_clangd
 *.creator*
+=======
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> 587c6f4d8339525c155c9d4de9e3ccb939ac4e05
