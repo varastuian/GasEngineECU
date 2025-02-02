@@ -19,9 +19,9 @@ ApplicationWindow {
     visible:        true
 
     width   : Math.min(200 * Screen.pixelDensity, Screen.width)
-    height  : Math.min(100 * Screen.pixelDensity, Screen.height)
+    height  : Math.min(76 * Screen.pixelDensity, Screen.height)
     minimumWidth: 200 * Screen.pixelDensity
-    minimumHeight: 100 * Screen.pixelDensity
+    minimumHeight: 50 * Screen.pixelDensity
 
     background: Rectangle {
         anchors.fill:   parent
